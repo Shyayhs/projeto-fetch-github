@@ -1,6 +1,6 @@
 # Fetch da API do GitHub
 
-Projeto do Curso DevQuest com intuito de criar uma página com busca de contas do GitHub e 10 de seus repositórios utilizando JavaScript
+Projeto do Curso DevQuest com intuito de criar uma página com busca de contas do GitHub, 10 de seus repositórios e 10 de seus eventos utilizando JavaScript
 
 ## Gifs
 

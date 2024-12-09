@@ -143,9 +143,49 @@ main {
   transition: 0.3s ease-in-out;
 }
 
-.container .profile-data .repositories ul li a:hover{
+.container .profile-data .repositories ul li a:hover {
   background-color:hotpink;
   color: #fff
+}
+
+.repository-info-container {
+  display: flex;
+  gap: 5px;
+}
+
+.repository-info {
+  border-radius: 7px;
+  font-size: 14px;
+  color: #ffffff;
+  background-color: mediumslateblue;
+  padding: 2px 5px;
+  width: fit-content;
+}
+
+.container .profile-data.hide{
+  display: none;
+}
+
+/* REPOSITORIES */
+
+.container .profile-data .events h2{
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.container .profile-data .events ul{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.container .profile-data .events ul li{
+  margin-bottom: 20px;
+  display: block;
+}
+
+.container .profile-data .events ul li .event-repositories {
+  font-weight: 700;
 }
 
 .container .profile-data.hide{
