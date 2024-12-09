@@ -5,7 +5,7 @@ Projeto do Curso DevQuest com intuito de criar uma página com busca de contas d
 ## Gifs
 
 #### Versão desktop
-![](./src/image/gif-desktop.png)
+![](./src/image/gif-desktop.gif)
 
 ### Link
 
